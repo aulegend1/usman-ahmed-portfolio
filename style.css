@@ -4,6 +4,9 @@ body {
       background: linear-gradient(135deg, #0044cc, #66ccff);
       color: #fff;
     }
+a{
+      text-decoration: none;
+}
     nav.navbar {
       background: rgba(0,0,0,0.6);
     }
@@ -170,4 +173,5 @@ body {
       #navbar-brand{
         font-size: 18px;
       }
+
     }
